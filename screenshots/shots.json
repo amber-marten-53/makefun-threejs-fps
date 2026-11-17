@@ -1,6 +1,0 @@
-[
-  { "name": "1-cover.png", "query": "?shot=start" },
-  { "name": "2-buy.png", "query": "?shot=buy" },
-  { "name": "3-play.png", "query": "?shot=play" },
-  { "name": "4-end.png", "query": "?shot=end" }
-]
