@@ -1,6 +1,6 @@
 [![make.fun · threejs-fps-01](https://make.fun/badge/threejs-fps-01.svg)](https://make.fun/bounty/threejs-fps-01?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
 [![rank](https://make.fun/badge/threejs-fps-01/amber-marten-53/makefun-threejs-fps/rank.svg)](https://make.fun/bounty/threejs-fps-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
-[![reward](https://make.fun/badge/threejs-fps-01/amber-marten-53/makefun-threejs-fps/reward.svg)](https://make.fun/bounty/threejs-fps-01/reward?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
+[![reward](https://make.fun/badge/threejs-fps-01/amber-marten-53/makefun-threejs-fps/reward.svg)](https://make.fun/bounty/threejs-fps-01?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
 
 # Operation Breach (threejs-fps-01)
 
